@@ -1,5 +1,7 @@
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install wget
+brew install node
+brew install maven
 brew cask install visual-studio-code
 brew cask install balenaetcher
 brew cask install iina
