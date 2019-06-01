@@ -2,6 +2,7 @@
 brew install wget
 brew install node
 brew install maven
+brew cask install sogouinput
 brew cask install visual-studio-code
 brew cask install balenaetcher
 brew cask install iina
