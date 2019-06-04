@@ -13,6 +13,9 @@ brew cask install iina
 brew cask install sourcetree
 brew cask install macdown
 brew cask install docker
+
+brew tap PotatoLabs/homebrew-git-redate
+brew install git-redate
 brew install wget
 brew install node
 brew install maven
