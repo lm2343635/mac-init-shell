@@ -19,3 +19,5 @@ brew install git-redate
 brew install wget
 brew install node
 brew install maven
+
+sh -c "$(wget -O- https://raw.githubusercontent.com/lm2343635/vimrc/master/install.sh)"
